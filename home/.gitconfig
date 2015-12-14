@@ -1,0 +1,7 @@
+[user]
+	name = omalyarenko
+	email = v-omalyarenko@hotwire.com
+[http]
+	sslVerify = false
+[gui]
+	recentrepo = D:/chef-repo
